@@ -13,7 +13,7 @@ Repositório de resoluções de atividades e projetos práticos desenvolvidos du
 
 ## 📁 Conteúdo das Entregas
 
-| Atividade | Descrição / Tópicos | Arquivo / Notebook | Status |
-|---|---|---|---|
-| **Projeto 01** | Manipulação de matrizes e análise de dados (NumPy & Pandas) | `projeto_01_numpy_pandas.ipynb` | Concluído |
-| **Projeto 02** | Automação e scripts de processamento | — | A iniciar |
+| Atividade | Descrição / Tópicos | Status |
+|---|---|---|
+| **Projeto 01** | Manipulação de matrizes e análise de dados (NumPy & Pandas) | Concluído |
+| **Projeto 02** | Automação e scripts de processamento | A iniciar |
