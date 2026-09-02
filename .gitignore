@@ -1,0 +1,9 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Caches de execução e checkpoints do Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
