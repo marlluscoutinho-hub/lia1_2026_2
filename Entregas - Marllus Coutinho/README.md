@@ -15,5 +15,6 @@ Repositório de resoluções de atividades e projetos práticos desenvolvidos du
 
 | Atividade | Descrição / Tópicos | Status |
 |---|---|---|
-| **Projeto 01** | Manipulação de matrizes e análise de dados (NumPy & Pandas) | Concluído |
-| **Projeto 02** | Automação e scripts de processamento | A iniciar |
+| **Entrega 01** | Manipulação de matrizes e análise de dados (NumPy & Pandas) | Concluído |
+| **Entrega 02** | Treinamento de Modelo Keras | Concluído |
+| **Entrega 03** | Aplicação de Inferencia de Texto ONNX Universal | Concluído |
