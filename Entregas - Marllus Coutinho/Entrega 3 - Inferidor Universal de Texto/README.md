@@ -127,23 +127,6 @@ Ele contém o vocabulário completo, tokens especiais, regras de padding e trunc
 - Zod
 - Bun
 
-## Execução local
-
-Com Git e Bun instalados:
-
-```bash
-git clone <URL_DO_REPOSITORIO_DA_DISCIPLINA>
-cd <PASTA_DO_REPOSITORIO>
-bun install
-bun run dev
-```
-
-Para validar o build de produção:
-
-```bash
-bun run build
-```
-
 ## Observação
 
 As classificações oferecem contexto temático e não constituem recomendação de investimento, previsão de preço ou garantia de impacto no mercado.
